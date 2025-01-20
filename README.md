@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @M-Vietinghoff
 - 👀 I’m interested in nearly everything
-- 🌱 I’m currently learning python and cyber security.
+- 🌱 I’m currently learning SQL,AI and much more!
 - 💞️ I’m looking to collaborate on nothing for now...
 - 📫 How to reach me: Email me.
 - 😄 Pronouns: She/Her or They/Them
